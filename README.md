@@ -1,4 +1,4 @@
-# DBAssignment3
+# DBAssignment3 - Kasper H Pontoppidan
 Opgave 1-3:
 Opsætning og queries for både Neo4J og MySQL: https://github.com/KPont/DBAssignment3/blob/master/Queries.pdf
 
